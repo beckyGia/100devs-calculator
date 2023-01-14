@@ -4,7 +4,7 @@
 
 ### What it should look like:
 
-![Calculator](calculator.jpg)
+![Calculator](calculator.png)
 
 ### How to submit your code for review:
 
@@ -23,5 +23,5 @@ Example:
 ```
 I completed the challenge: 5
 I feel good about my code: 3
-I'm not sure if my code is the most effectively and I could probably add some more features...
+I'm not sure if my code is the most effective and I could probably add some more features. I do like the appearance of my calculator.  I feel like it shows off my css skills.
 ```
